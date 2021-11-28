@@ -13,4 +13,4 @@ I'm interested in:
   
 Next goal is to learn C++
   
-If you wish to contact me, shoot me an emai: rafael@giebisch-mail.de
+If you wish to contact me, shoot me an email: rafael@giebisch-mail.de
