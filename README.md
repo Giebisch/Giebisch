@@ -1,6 +1,6 @@
 👋 Hi, I’m @Giebisch !
 
-I'm a 23 year old student from Munich, Germany. 
+I'm a 24 year old student from Munich, Germany. 
 
 I'm currently studying computer science (Master of Science).
 
@@ -8,9 +8,9 @@ I'm interested in:
   + Python ( + Django, Matplotlib, ...)
   + C
   + LaTeX
-  + JavaScript
+  + JavaScript (+ VueJS, ...)
   + HTML / CSS
   
-Next goal is to learn C++
+Follow my music recommendations: [https://www.rafael-giebisch.de/](https://www.rafael-giebisch.de/)
   
-If you wish to contact me, shoot me an email: rafael@giebisch-mail.de
+Shoot me an email: rafael@giebisch-mail.de
