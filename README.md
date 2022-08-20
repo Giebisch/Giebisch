@@ -7,6 +7,7 @@ I'm currently studying computer science (Master of Science).
 I'm interested in:
   + Python ( + Django, Matplotlib, ...)
   + C
+  + Go
   + LaTeX
   + JavaScript (+ VueJS, ...)
   + HTML / CSS
