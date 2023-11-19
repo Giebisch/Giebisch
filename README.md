@@ -17,6 +17,6 @@ Open Source Contributor for:
   + Django Rest Framework
   + BookyWyrm
 
-Follow my music recommendations: [https://www.rafael-giebisch.de/](https://www.rafael-giebisch.de/)
+Website: [https://rafael-giebisch.de/](https://rafael-giebisch.de/)
   
 Shoot me an email: rafael@giebisch-mail.de
