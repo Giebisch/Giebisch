@@ -17,6 +17,6 @@ Open Source Contributor for:
   + Django Rest Framework
   + BookyWyrm
 
-Website: [https://rafael-giebisch.de/](https://rafael-giebisch.de/)
+Most of my code is private or has been written under contract for various companies.
   
 Shoot me an email: rafael@giebisch-mail.de
