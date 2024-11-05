@@ -2,7 +2,7 @@
 
 I'm a 26 year old student from Munich, Germany. 
 
-I'm currently studying computer science (Master of Science).
+I've recently completed my Master's degree in Computer Science at the Technical University of Munich.
 
 I'm interested in:
   + Python ( + Django, Matplotlib, ...)
