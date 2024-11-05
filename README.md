@@ -1,7 +1,5 @@
 👋 Hi, I’m @Giebisch !
 
-I'm a 26 year old student from Munich, Germany. 
-
 I've recently completed my Master's degree in Computer Science at the Technical University of Munich.
 
 I'm interested in:
