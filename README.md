@@ -11,6 +11,4 @@ Most of my code is private or has been written under contract for various compan
   
 Shoot me an email: rafael@giebisch-mail.de
 
-Read my [blog](https://rgiebisch.de)
-
-Want to know more about me ? [My website](https://rafael-giebisch.de/)
+Read my blog [here](https://rgiebisch.de) or want to know more about me ? Go to my [my profile](https://rafael-giebisch.de/)
