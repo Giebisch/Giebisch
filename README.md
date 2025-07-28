@@ -2,7 +2,7 @@
 
 I am a full-time software engineer and MSc Informatics graduate from the Technical University of Munich.
 
-Coding on a MacBook Pro M4 using NeoVim.
+NeoVim ❤️
 
 Open Source Contributor for:
   + Django
