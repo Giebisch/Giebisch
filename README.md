@@ -8,6 +8,8 @@ Open Source Contributor for:
   + BookyWyrm
 
 Most of my code is private or has been written under contract for various companies.
+
+See [my Gitlab profile](https://gitlab.com/rafael.giebisch) for a more active contribution history ^^
   
 Shoot me an email: rafael@giebisch-mail.de
 
