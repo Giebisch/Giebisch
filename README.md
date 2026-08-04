@@ -7,7 +7,8 @@ NeoVim ❤️
 Open Source Contributor for:
   + Django
   + Django Rest Framework
-  + BookyWyrm
+  + Dagu
+  + BookWyrm
 
 Most of my code is private or has been written under contract for various companies.
 
