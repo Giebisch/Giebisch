@@ -16,4 +16,4 @@ See [my Gitlab profile](https://gitlab.com/rafael.giebisch) for a more active co
   
 Shoot me an email: rafael@giebisch-mail.de
 
-Read my blog [here](https://rgiebisch.de) or want to know more about me ? Go to my [my profile](https://rafael-giebisch.de/)
+Want to know more about me ? Go to my [my profile](https://rafael-giebisch.de/)
